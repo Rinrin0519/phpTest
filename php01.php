@@ -42,5 +42,3 @@ $calendar_2020 = [
 echo $calendar_2020["December"];
 
 ?>
-
-<?php echo "see you"; ?>
