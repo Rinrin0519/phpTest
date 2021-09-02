@@ -6,5 +6,3 @@ $testNum = 123;
 
 echo $test;
 echo $testNum;
-
-?>
