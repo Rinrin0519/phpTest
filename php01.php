@@ -17,7 +17,8 @@ $world = "‘s World!";
 echo $hello . $name . $world;
 
 //4. $tech_boostに “tech “という文字列が代入されています。複合演算を使って、echo $tech_boost:と実行すると「tech boost」と表示されるように実装してみましょう。
-$tech_boost .= tech boost;
+$tech_boost = "tech";
+$tech_boost .= "boost";
 echo $tech_boost;
 
 
